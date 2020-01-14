@@ -1,0 +1,67 @@
+HTML Tag Dictionary
+
+a : Anchor tag, can insert links into text
+    
+	attributes : href
+	
+	example: <a href="http://translate.google.com/"> my favourite website </a>
+	
+	
+h1 : Header	tag, makes the text larger and is on its own seperate line
+     
+	 attributes : none
+	 
+	 example: <h1> uwu </h1>
+	 
+
+h2 : Smaller header tag, the same as h1 but a bit smaller in size and is on its own
+     seperate line
+     
+     attributes : none
+
+	 example: <h2> owo </h2>	 
+	 
+	
+img : Image tag, can insert images into your website
+
+      attributes : src
+	  
+	  example: <img src="image.jpg">
+	  
+	  
+li : Listing tag, relating to the ol and ul tag, it seperates each point of a list	
+     
+     attributes : none
+
+     example: <ol>
+                <li> banana</li>
+                <li> apple</li>
+              </ol>				
+			  
+
+ol:   Number list tag, similar to the ul tag but each point is numbered
+
+      attributes : none
+	  
+	  example: <ol>
+                <li> wash the apples </li>
+                <li> cut the apples </li>
+              </ol>	
+			  
+			   
+p:    Paragraph tag, turns words or sentences in the tag into a paragraph and 
+      it is inserted into its own line
+   
+      attributes : none
+	  
+	  example : <p> I'm hungry and cold </p>
+	  
+	  
+ul:   Point list tag, similar to the ol tag but each point has a point/dot
+
+      attributes : none
+	  
+	  example : <ul>
+                <li> finish french homework </li>
+                <li> print english paper </li>
+              </ul>	
