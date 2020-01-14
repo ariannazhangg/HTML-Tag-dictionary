@@ -1,13 +1,26 @@
 HTML Tag Dictionary
 
+!DOCTYPE : Doctype tag, selects the current version of HTML, most use to be a valid HTML file
+ 
+        attributes : none
+	
+	example: <!DOCTYPE html>
+
 a : Anchor tag, can insert links into text
     
 	attributes : href
 	
 	example: <a href="http://translate.google.com/"> my favourite website </a>
 	
+body : Body tag, contains content, most use to be a valid HTML file
+ 
+        attributes : none
 	
-h1 : Header	tag, makes the text larger and is on its own seperate line
+	example: <body> 
+	            <h1> ¯\_(ツ)_/¯ </h1>
+		 </body>
+	
+h1 : Header tag, makes the text larger and is on its own seperate line
      
 	 attributes : none
 	 
@@ -19,8 +32,25 @@ h2 : Smaller header tag, the same as h1 but a bit smaller in size and is on its 
      
      attributes : none
 
-	 example: <h2> owo </h2>	 
+     example: <h2> owo </h2>	 
 	 
+
+head : Head tag, contain things for your we browser to think about
+
+     attributes : none
+     
+     example: <head> 
+                 <title> wow </title>
+	      </head>
+	      
+html : html tag, marks the beginning and end of your HTML code, most be used to be a valid html file
+
+     attributes: none
+     
+     example <html>
+               <h1> achoo </h1>
+	      </html>
+     
 	
 img : Image tag, can insert images into your website
 
@@ -55,8 +85,8 @@ p:    Paragraph tag, turns words or sentences in the tag into a paragraph and
       attributes : none
 	  
 	  example : <p> I'm hungry and cold </p>
-	  
-	  
+	  	
+	
 ul:   Point list tag, similar to the ol tag but each point has a point/dot
 
       attributes : none
