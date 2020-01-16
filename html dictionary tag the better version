@@ -87,6 +87,12 @@ p:    Paragraph tag, turns words or sentences in the tag into a paragraph and
 	  example : <p> I'm hungry and cold </p>
 	  	
 	
+title:  title tag, changes the name of the website in the tab
+      
+      attributes: none
+	
+      example: <title> wow </title>
+	
 ul:   Point list tag, similar to the ol tag but each point has a point/dot
 
       attributes : none
