@@ -85,7 +85,10 @@ p:    Paragraph tag, turns words or sentences in the tag into a paragraph and
       attributes : none
 	  
 	  example : <p> I'm hungry and cold </p>
-	  	
+
+style: Style tag,
+
+
 	
 title:  title tag, changes the name of the website in the tab
       
