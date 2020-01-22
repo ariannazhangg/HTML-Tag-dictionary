@@ -12,6 +12,17 @@ a : Anchor tag, can insert links into text
 	
 	example: <a href="http://translate.google.com/"> my favourite website </a>
 	
+br : Break tag, similar to pressing enter while typing, gives a break
+
+       attributes : none
+       
+       example: <body> 
+	            <h1> ¯\_(ツ)_/¯ </h1>
+		    <br>
+		    <h2> ahhh </h2>
+		 </body>
+               
+	
 body : Body tag, contains content, most use to be a valid HTML file
  
         attributes : none
