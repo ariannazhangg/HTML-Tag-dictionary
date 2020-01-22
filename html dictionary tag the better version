@@ -19,7 +19,18 @@ body : Body tag, contains content, most use to be a valid HTML file
 	example: <body> 
 	            <h1> ¯\_(ツ)_/¯ </h1>
 		 </body>
-	
+div: Div tag, inside the style tag, you put this in to choose how wide, how much padding, your border width and etc...
+
+       attributes : none
+       
+       example: <header>
+                <style>
+		div {
+		width: 800px;
+		}
+		</style>
+		</header>
+		
 h1 : Header tag, makes the text larger and is on its own seperate line
      
 	 attributes : none
@@ -86,9 +97,18 @@ p:    Paragraph tag, turns words or sentences in the tag into a paragraph and
 	  
 	  example : <p> I'm hungry and cold </p>
 
-style: Style tag,
-
-
+style: Style tag, gives you the option to customize your website with different colours, fonts, borders and etc... Put this inside the 
+       header tag
+       
+       attributes : none
+       
+       example: <header>
+                <style>
+		body {
+		background-color: purple;
+		}
+		</style>
+		</header>
 	
 title:  title tag, changes the name of the website in the tab
       
