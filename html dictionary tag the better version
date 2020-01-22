@@ -19,7 +19,7 @@ body : Body tag, contains content, most use to be a valid HTML file
 	example: <body> 
 	            <h1> ¯\_(ツ)_/¯ </h1>
 		 </body>
-div: Div tag, inside the style tag, you put this in to choose how wide, how much padding, your border width and etc...
+div: Division tag, inside the style tag, defines a division in the HTML code
 
        attributes : none
        
